@@ -1,0 +1,17 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
+
+<div class="py2">
+  <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked form-light">
+    <input type="text" name="name" class="input mobile-block" placeholder="Name" required>
+    <input type="text" name="email" class="input mobile-block" placeholder="Email Address" required>
+    <textarea name="content" class="input mobile-block" rows="10" placeholder="What would you like to say?" required></textarea>
+    <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
+    <input type="hidden" name="_subject" value="New message from {{ site.url }}" />
+    <input type="text" name="_gotcha" style="display:none" />
+    <input type="submit" class="button button-blue mobile-block" value="Send">
+  </form>
+</div>
