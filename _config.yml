@@ -3,9 +3,7 @@ title: Santiago Regueiro
 email: santi@regueiro.es
 author: Santiago Regueiro
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi, my name is Santiago Regueiro and I am a Technical Engineer in Business Computing Systems from Pontevedra.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.regueiro.es" # the base hostname & protocol for your site
 
