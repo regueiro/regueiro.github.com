@@ -1,0 +1,8 @@
+stages:
+  - build
+  - test
+
+job_build:
+  stage: build
+  script:
+    - jekyll build  
