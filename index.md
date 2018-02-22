@@ -6,10 +6,11 @@ permalink: /
 
 Hi, my name is **Santiago Regueiro** and I am a **Technical Engineer in Business Computing Systems** from [Pontevedra](https://www.google.com/maps/place/Pontevedra). 
 
-I'm currently working as **CTO** at [Qubitia Solutions](http://www.qubitia.com), a spanish company specialized in **financial software**.
-Right now we are building [QCaid](http://qubitia.com/qcaid-corporate/), a program for designing, testing and executing automated trading strategies.
+I'm currently working as **CTO** at [Qbitia](http://www.qubitia.com), a spanish company specialized in **financial software**.
+Right now we are building [Qcaid](http://qubitia.com/qcaid-corporate/), a program for designing, testing and executing 
+automated trading strategies.
 
-At work I mainly code in **Java**. During my time at **Qubitia** I have developed a market simulator, historical and real time data feeds,
+At work I mainly code in **Java**. During my time at **Qbitia** I have developed a market simulator, historical and real time data feeds,
 quote aggregation systems and complex user interfaces. I'm interested in software architecture, the development process and team management, 
 and like to [read](https://www.goodreads.com/user/show/34662412-santi-regueiro) technical books on the matter.
 I also experiment from time to time with functional languages like Groovy and Elixir or game development with Unreal Engine 4 and Maya.
